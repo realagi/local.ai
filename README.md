@@ -1,4 +1,4 @@
-# 🎒 local.ai
+# 🎒 local.ai (RealAGI Flavored)
 
 A desktop app for local, private, secured AI experimentation. Included out-of-the box are:
 
